@@ -1,0 +1,4 @@
+/snap/clion/137/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "CodeBlocks - Unix Makefiles" /home/sofia/CLionProjects/aeda2021_p04
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sofia/CLionProjects/aeda2021_p04/cmake-build-debug

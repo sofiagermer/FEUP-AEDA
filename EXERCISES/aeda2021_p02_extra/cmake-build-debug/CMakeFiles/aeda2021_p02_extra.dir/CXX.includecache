@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sofia/CLionProjects/aeda2021_p02_extra/Tests/animal.h
+veterinary.h
+/home/sofia/CLionProjects/aeda2021_p02_extra/Tests/veterinary.h
+string
+-
+
+/home/sofia/CLionProjects/aeda2021_p02_extra/Tests/veterinary.h
+string
+-
+
+/home/sofia/CLionProjects/aeda2021_p02_extra/Tests/zoo.cpp
+zoo.h
+/home/sofia/CLionProjects/aeda2021_p02_extra/Tests/zoo.h
+iostream
+-
+sstream
+-
+stdlib.h
+-
+
+/home/sofia/CLionProjects/aeda2021_p02_extra/Tests/zoo.h
+animal.h
+/home/sofia/CLionProjects/aeda2021_p02_extra/Tests/animal.h
+vector
+-
+

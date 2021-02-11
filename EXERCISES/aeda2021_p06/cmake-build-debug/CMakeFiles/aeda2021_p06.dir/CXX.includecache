@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sofia/CLionProjects/aeda2021_p06/Tests/counter.cpp
+queue
+-
+cstdlib
+-
+counter.h
+/home/sofia/CLionProjects/aeda2021_p06/Tests/counter.h
+exceptions.h
+/home/sofia/CLionProjects/aeda2021_p06/Tests/exceptions.h
+
+/home/sofia/CLionProjects/aeda2021_p06/Tests/counter.h
+iostream
+-
+queue
+-
+
+/home/sofia/CLionProjects/aeda2021_p06/Tests/exceptions.h
+string
+-
+

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sofia/CLionProjects/aeda2021_ci1/Tests/call.h
+string
+-
+
+/home/sofia/CLionProjects/aeda2021_ci1/Tests/callCenter.cpp
+algorithm
+-
+iostream
+-
+callCenter.h
+/home/sofia/CLionProjects/aeda2021_ci1/Tests/callCenter.h
+
+/home/sofia/CLionProjects/aeda2021_ci1/Tests/callCenter.h
+callCenterAgent.h
+/home/sofia/CLionProjects/aeda2021_ci1/Tests/callCenterAgent.h
+call.h
+/home/sofia/CLionProjects/aeda2021_ci1/Tests/call.h
+queue
+-
+list
+-
+stack
+-
+
+/home/sofia/CLionProjects/aeda2021_ci1/Tests/callCenterAgent.h
+call.h
+/home/sofia/CLionProjects/aeda2021_ci1/Tests/call.h
+string
+-
+queue
+-
+

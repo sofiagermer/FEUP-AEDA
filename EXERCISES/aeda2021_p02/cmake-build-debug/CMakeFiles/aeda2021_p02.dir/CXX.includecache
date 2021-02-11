@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sofia/CLionProjects/aeda2021_p02/Tests/fleet.cpp
+fleet.h
+/home/sofia/CLionProjects/aeda2021_p02/Tests/fleet.h
+string
+-
+bits/stdc++.h
+-
+
+/home/sofia/CLionProjects/aeda2021_p02/Tests/fleet.h
+iostream
+-
+vector
+-
+vehicle.h
+/home/sofia/CLionProjects/aeda2021_p02/Tests/vehicle.h
+
+/home/sofia/CLionProjects/aeda2021_p02/Tests/vehicle.h
+string
+-
+
