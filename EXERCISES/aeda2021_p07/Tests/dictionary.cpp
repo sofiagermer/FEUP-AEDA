@@ -78,13 +78,6 @@ void Dictionary::print() const
     words.printTree();
 }
 
-/* MANEIRA DO MIRO
- * void Dictionary::print() const {
-    for (iteratorBST<WordMeaning> it = words.begin(); it != words.end(); it++) {
-        std::cout << (*it).getWord() << ": " << (*it).getMeaning() << std::endl;
-    }
-}
- */
 
 //MANEIRA DA STORA
 /*
